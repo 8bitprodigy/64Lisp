@@ -1,5 +1,5 @@
-64Lisp
-======
+64MiniLisp
+==========
 Based on MiniLisp by Rui314.
 
 MiniLisp
