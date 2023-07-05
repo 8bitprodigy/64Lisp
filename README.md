@@ -1,6 +1,6 @@
 64MiniLisp
 ==========
-Based on MiniLisp by Rui314.
+MiniLisp by Rui314 ported to the N64.
 
 MiniLisp
 ========
